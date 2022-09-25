@@ -1,3 +1,3 @@
 a project in theodinproject.com
 
-https://hexre.github.io/odin-recipes/
+:link:https://hexre.github.io/odin-recipes/
